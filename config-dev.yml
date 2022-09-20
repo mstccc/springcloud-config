@@ -2,4 +2,4 @@ server:
   name: "server1"
 
 config:
-  info: "edition-4"
+  info: "edition-5"
